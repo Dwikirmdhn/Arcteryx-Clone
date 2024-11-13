@@ -1,0 +1,545 @@
+{
+  "users": [],
+  "wishlist": [],
+  "products": [
+    {
+      "name": "Stowe Windshell",
+      "slug": "stowe-windshell",
+      "description": "Lightweight and packable windshell for hiking and everyday use.",
+      "excerpt": "Versatile windshell for outdoor activities",
+      "price": 199,
+      "tags": ["windproof", "lightweight", "packable"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006073-Stowe-Windshell-Black-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006073-Stowe-Windshell-Black-Women-s-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006073-Stowe-Windshell-Black-Women-s.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006073-Stowe-Windshell-Black-Women-s-Profile.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006073-Stowe-Windshell-Black-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006073-Stowe-Windshell-Black-Women-s-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "name": "Beta LT Jacket (Amaranthus)",
+      "slug": "beta-lt-jacket-amaranthus",
+      "description": "Lightweight and packable GORE-TEX jacket for all-round mountain use.",
+      "excerpt": "Versatile GORE-TEX protection for alpine environments",
+      "price": 399,
+      "tags": ["waterproof", "breathable", "alpine"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006716-Beta-LT-Jacket-Amaranthus-Edziza-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006716-Beta-LT-Jacket-Amaranthus-Edziza-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006716-Beta-LT-Jacket-Amaranthus-Edziza-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006716-Beta-LT-Jacket-Amaranthus-Edziza-Women-s-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006716-Beta-LT-Jacket-Amaranthus-Edziza-Women-s-Flat.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006716-Beta-LT-Jacket-Amaranthus-Edziza-Women-s-Pit-Zip.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-20T10:15:30.000Z",
+      "updatedAt": "2024-03-22T09:30:45.000Z"
+    },
+    {
+      "name": "Beta LT Jacket (Black)",
+      "slug": "beta-lt-jacket-black",
+      "description": "Lightweight and durable GORE-TEX jacket for versatile mountain use.",
+      "excerpt": "All-round protection for alpine adventures",
+      "price": 399,
+      "tags": ["waterproof", "breathable", "alpine"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006716-Beta-LT-Jacket-Black-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006716-Beta-LT-Jacket-Black-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006716-Beta-LT-Jacket-Black-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006716-Beta-LT-Jacket-Black-Women-s-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006716-Beta-LT-Jacket-Black-Women-s-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000006716-Beta-LT-Jacket-Black-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-21T11:20:30.000Z",
+      "updatedAt": "2024-03-23T10:35:45.000Z"
+    },
+    {
+      "name": "Alpha Parka",
+      "slug": "alpha-parka",
+      "description": "Warm and protective parka for extreme alpine conditions.",
+      "excerpt": "Ultimate warmth for high alpine environments",
+      "price": 799,
+      "tags": ["insulated", "waterproof", "alpine"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005340-Alpha-Parka-Black-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005340-Alpha-Parka-Black-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005340-Alpha-Parka-Black-Flat.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005340-Alpha-Parka-Black.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005340-Alpha-Parka-Black-Profile.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005340-Alpha-Parka-Black-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-22T12:25:30.000Z",
+      "updatedAt": "2024-03-24T11:40:45.000Z"
+    },
+    {
+      "name": "Epsilon Insulated Hoody",
+      "slug": "epsilon-insulated-hoody",
+      "description": "Versatile insulated hoody for cool weather activities.",
+      "excerpt": "Warm and breathable for active use",
+      "price": 299,
+      "tags": ["insulated", "breathable", "versatile"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007182-Epsilon-Insulated-Hoody-Black-Sapphire-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007182-Epsilon-Insulated-Hoody-Black-Sapphire-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007182-Epsilon-Insulated-Hoody-Black-Sapphire-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007182-Epsilon-Insulated-Hoody-Black-Sapphire-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007182-Epsilon-Insulated-Hoody-Black-Sapphire-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007182-Epsilon-Insulated-Hoody-Black-Sapphire.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-23T13:30:30.000Z",
+      "updatedAt": "2024-03-25T12:45:45.000Z"
+    },
+    {
+      "name": "Atom Hoody (Interstellar)",
+      "slug": "atom-hoody-interstellar",
+      "description": "Versatile insulated mid-layer with wind and moisture resistance.",
+      "excerpt": "Adaptable insulation for various activities",
+      "price": 259,
+      "tags": ["insulated", "wind-resistant", "versatile"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007487-Atom-Hoody-Interstellar-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007487-Atom-Hoody-Interstellar-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007487-Atom-Hoody-Interstellar-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007487-Atom-Hoody-Interstellar-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007487-Atom-Hoody-Interstellar-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007487-Atom-Hoody-Interstellar-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-24T14:35:30.000Z",
+      "updatedAt": "2024-03-26T13:50:45.000Z"
+    },
+    {
+      "name": "Atom Hoody (Euphoria)",
+      "slug": "atom-hoody-euphoria",
+      "description": "Versatile insulated mid-layer with wind and moisture resistance.",
+      "excerpt": "Adaptable insulation for various activities",
+      "price": 259,
+      "tags": ["insulated", "wind-resistant", "versatile"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007487-Atom-Hoody-Euphoria-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007487-Atom-Hoody-Euphoria-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007487-Atom-Hoody-Euphoria-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007487-Atom-Hoody-Euphoria-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007487-Atom-Hoody-Euphoria-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-25T15:40:30.000Z",
+      "updatedAt": "2024-03-27T14:55:45.000Z"
+    },
+    {
+      "name": "Proton Hybrid Hoody",
+      "slug": "proton-hybrid-hoody",
+      "description": "Breathable insulated mid-layer for high-output activities.",
+      "excerpt": "Active insulation for demanding pursuits",
+      "price": 299,
+      "tags": ["insulated", "breathable", "active"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000006731-Proton-Hybrid-Hoody-Black-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000006731-Proton-Hybrid-Hoody-Black-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000006731-Proton-Hybrid-Hoody-Black-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000006731-Proton-Hybrid-Hoody-Black-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000006731-Proton-Hybrid-Hoody-Black.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000006731-Proton-Hybrid-Hoody-Black-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-26T16:45:30.000Z",
+      "updatedAt": "2024-03-28T15:00:45.000Z"
+    },
+    {
+      "name": "Beta Insulated Jacket (Black Rune)",
+      "slug": "beta-insulated-jacket-black-rune",
+      "description": "Insulated GORE-TEX jacket for all-mountain skiing and snowboarding.",
+      "excerpt": "Warm, waterproof protection for winter sports",
+      "price": 599,
+      "tags": ["insulated", "waterproof", "ski"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008885-Beta-Insulated-Jacket-Black-Rune-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008885-Beta-Insulated-Jacket-Black-Rune-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008885-Beta-Insulated-Jacket-Black-Rune-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008885-Beta-Insulated-Jacket-Black-Rune-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008885-Beta-Insulated-Jacket-Black-Rune-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008885-Beta-Insulated-Jacket-Black-Rune-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-27T17:50:30.000Z",
+      "updatedAt": "2024-03-29T16:05:45.000Z"
+    },
+    {
+      "name": "Beta Insulated Jacket (Eden)",
+      "slug": "beta-insulated-jacket-eden",
+      "description": "Insulated GORE-TEX jacket for all-mountain skiing and snowboarding.",
+      "excerpt": "Warm, waterproof protection for winter sports",
+      "price": 599,
+      "tags": ["insulated", "waterproof", "ski"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008885-Beta-Insulated-Jacket-Eden-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008885-Beta-Insulated-Jacket-Eden-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008885-Beta-Insulated-Jacket-Eden-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008885-Beta-Insulated-Jacket-Eden-Flat.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008885-Beta-Insulated-Jacket-Eden.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008885-Beta-Insulated-Jacket-Eden-Profile.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-28T18:55:30.000Z",
+      "updatedAt": "2024-03-30T17:10:45.000Z"
+    },
+    {
+      "name": "Fissile SV Down Jacket",
+      "slug": "fissile-sv-down-jacket",
+      "description": "Warm and protective down jacket for extreme cold conditions.",
+      "excerpt": "Ultimate warmth for harsh winter environments",
+      "price": 899,
+      "tags": ["insulated", "waterproof", "alpine"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008481-Fissile-SV-Down-Jacket-Interstellar-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008481-Fissile-SV-Down-Jacket-Interstellar-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008481-Fissile-SV-Down-Jacket-Interstellar-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008481-Fissile-SV-Down-Jacket-Interstellar-Flat.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008481-Fissile-SV-Down-Jacket-Interstellar.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008481-Fissile-SV-Down-Jacket-Interstellar-Profile.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-29T19:00:30.000Z",
+      "updatedAt": "2024-03-31T18:15:45.000Z"
+    },
+    {
+      "name": "Rush Insulated Jacket",
+      "slug": "rush-insulated-jacket",
+      "description": "Insulated GORE-TEX jacket for freeride skiing and snowboarding.",
+      "excerpt": "Warm, waterproof protection for backcountry adventures",
+      "price": 699,
+      "tags": ["insulated", "waterproof", "ski"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007394-Rush-Insulated-Jacket-Graphite-Black-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007394-Rush-Insulated-Jacket-Graphite-Black-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007394-Rush-Insulated-Jacket-Graphite-Black-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007394-Rush-Insulated-Jacket-Graphite-Black-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007394-Rush-Insulated-Jacket-Graphite-Black-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007394-Rush-Insulated-Jacket-Graphite-Black-Profile.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-30T20:05:30.000Z",
+      "updatedAt": "2024-04-01T19:20:45.000Z"
+    },
+    {
+      "name": "Sentinel Insulated Anorak",
+      "slug": "sentinel-insulated-anorak",
+      "description": "Insulated GORE-TEX anorak for freeride skiing and snowboarding.",
+      "excerpt": "Warm, waterproof protection with unique style",
+      "price": 649,
+      "tags": ["insulated", "waterproof", "ski"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009099-Sentinel-Insulated-Anorak-Sequoia-Solaris-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009099-Sentinel-Insulated-Anorak-Sequoia-Solaris-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009099-Sentinel-Insulated-Anorak-Sequoia-Solaris-Women-s-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009099-Sentinel-Insulated-Anorak-Sequoia-Solaris-Women-s-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009099-Sentinel-Insulated-Anorak-Sequoia-Solaris-Women-s.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009099-Sentinel-Insulated-Anorak-Sequoia-Solaris-Women-s-Profile.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-31T21:10:30.000Z",
+      "updatedAt": "2024-04-02T20:25:45.000Z"
+    },
+    {
+      "name": "Rush Jacket (Rune Tatsu)",
+      "slug": "rush-jacket-rune-tatsu",
+      "description": "GORE-TEX Pro jacket for freeride skiing and snowboarding.",
+      "excerpt": "Durable waterproof protection for backcountry adventures",
+      "price": 699,
+      "tags": ["waterproof", "breathable", "ski"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005677-Rush-Jacket-Rune-Tatsu-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005677-Rush-Jacket-Rune-Tatsu-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005677-Rush-Jacket-Rune-Tatsu-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005677-Rush-Jacket-Rune-Tatsu-Women-s-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005677-Rush-Jacket-Rune-Tatsu-Women-s-Flat.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005677-Rush-Jacket-Rune-Tatsu-Women-s.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-01T22:15:30.000Z",
+      "updatedAt": "2024-04-03T21:30:45.000Z"
+    },
+    {
+      "name": "Rush Jacket (Euphoria Phantasm)",
+      "slug": "rush-jacket-euphoria-phantasm",
+      "description": "GORE-TEX Pro jacket for freeride skiing and snowboarding.",
+      "excerpt": "Durable waterproof protection for backcountry adventures",
+      "price": 699,
+      "tags": ["waterproof", "breathable", "ski"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005677-Rush-Jacket-Euphoria-Phantasm-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005677-Rush-Jacket-Euphoria-Phantasm-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005677-Rush-Jacket-Euphoria-Phantasm-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005677-Rush-Jacket-Euphoria-Phantasm-Women-s-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005677-Rush-Jacket-Euphoria-Phantasm-Women-s.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000005677-Rush-Jacket-Euphoria-Phantasm-Women-s-Profile.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-02T23:20:30.000Z",
+      "updatedAt": "2024-04-04T22:35:45.000Z"
+    },
+    {
+      "name": "Sentinel Jacket",
+      "slug": "sentinel-jacket",
+      "description": "GORE-TEX jacket for freeride skiing and snowboarding.",
+      "excerpt": "Versatile waterproof protection for all-mountain use",
+      "price": 649,
+      "tags": ["waterproof", "breathable", "ski"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007384-Sentinel-Jacket-Black-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007384-Sentinel-Jacket-Black-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007384-Sentinel-Jacket-Black-Women-s-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007384-Sentinel-Jacket-Black-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007384-Sentinel-Jacket-Black-Women-s-Flat.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007384-Sentinel-Jacket-Black-Women-s.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-03T00:25:30.000Z",
+      "updatedAt": "2024-04-05T23:40:45.000Z"
+    },
+    {
+      "name": "Alpha Jacket (Forage Tatsu)",
+      "slug": "alpha-jacket-forage-tatsu",
+      "description": "Lightweight GORE-TEX Pro jacket for alpine climbing and mountaineering.",
+      "excerpt": "Durable waterproof protection for extreme alpine conditions",
+      "price": 799,
+      "tags": ["waterproof", "breathable", "alpine"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007069-Alpha-Jacket-Forage-Tatsu-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007069-Alpha-Jacket-Forage-Tatsu-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007069-Alpha-Jacket-Forage-Tatsu-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007069-Alpha-Jacket-Forage-Tatsu-Women-s-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007069-Alpha-Jacket-Forage-Tatsu-Women-s-Pit-Zip.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007069-Alpha-Jacket-Forage-Tatsu-Women-s-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-04T01:30:30.000Z",
+      "updatedAt": "2024-04-06T00:45:45.000Z"
+    },
+    {
+      "name": "Sentinel Insulated Anorak (Dk Stratus Stratus)",
+      "slug": "sentinel-insulated-anorak-dk-stratus-stratus",
+      "description": "Insulated GORE-TEX anorak for freeride skiing and snowboarding.",
+      "excerpt": "Warm, waterproof protection with unique style",
+      "price": 649,
+      "tags": ["insulated", "waterproof", "ski"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009099-Sentinel-Insulated-Anorak-Dk-Stratus-Stratus-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009099-Sentinel-Insulated-Anorak-Dk-Stratus-Stratus-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009099-Sentinel-Insulated-Anorak-Dk-Stratus-Stratus-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009099-Sentinel-Insulated-Anorak-Dk-Stratus-Stratus-Women-s-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009099-Sentinel-Insulated-Anorak-Dk-Stratus-Stratus-Women-s-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009099-Sentinel-Insulated-Anorak-Dk-Stratus-Stratus-Women-s-Pit-Zip.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-05T02:35:30.000Z",
+      "updatedAt": "2024-04-07T01:50:45.000Z"
+    },
+    {
+      "name": "Rush Jacket (Neutral Zone)",
+      "slug": "rush-jacket-neutral-zone",
+      "description": "GORE-TEX Pro jacket for freeride skiing and snowboarding.",
+      "excerpt": "Durable waterproof protection for backcountry adventures",
+      "price": 699,
+      "tags": ["waterproof", "breathable", "ski"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000005677-Rush-Jacket-Neutral-Zone-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000005677-Rush-Jacket-Neutral-Zone-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000005677-Rush-Jacket-Neutral-Zone-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000005677-Rush-Jacket-Neutral-Zone-Women-s-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000005677-Rush-Jacket-Neutral-Zone-Women-s-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000005677-Rush-Jacket-Neutral-Zone-Women-s-Profile.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-06T03:40:30.000Z",
+      "updatedAt": "2024-04-08T02:55:45.000Z"
+    },
+    {
+      "name": "Nita Shell Jacket",
+      "slug": "nita-shell-jacket",
+      "description": "Lightweight GORE-TEX jacket for hiking and everyday use.",
+      "excerpt": "Versatile waterproof protection for various activities",
+      "price": 399,
+      "tags": ["waterproof", "breathable", "hiking"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007203-Nita-Shell-Jacket-Boxcar-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007203-Nita-Shell-Jacket-Boxcar-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007203-Nita-Shell-Jacket-Boxcar-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007203-Nita-Shell-Jacket-Boxcar-Women-s-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007203-Nita-Shell-Jacket-Boxcar-Women-s-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007203-Nita-Shell-Jacket-Boxcar-Women-s.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-07T04:45:30.000Z",
+      "updatedAt": "2024-04-09T04:00:45.000Z"
+    },
+    {
+      "name": "Alpha SV Jacket",
+      "slug": "alpha-sv-jacket",
+      "description": "Most durable GORE-TEX Pro jacket for severe alpine conditions.",
+      "excerpt": "Ultimate protection for extreme mountaineering",
+      "price": 899,
+      "tags": ["waterproof", "breathable", "alpine"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007415-Alpha-SV-Jacket-Lampyre-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007415-Alpha-SV-Jacket-Lampyre-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007415-Alpha-SV-Jacket-Lampyre-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007415-Alpha-SV-Jacket-Lampyre-Women-s-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007415-Alpha-SV-Jacket-Lampyre-Women-s-Pit-Zip.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F23-X000007415-Alpha-SV-Jacket-Lampyre-Women-s-Flat.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-08T05:50:30.000Z",
+      "updatedAt": "2024-04-10T05:05:45.000Z"
+    },
+    {
+      "name": "Alpha Jacket (Solitude)",
+      "slug": "alpha-jacket-solitude",
+      "description": "Lightweight GORE-TEX Pro jacket for alpine climbing and mountaineering.",
+      "excerpt": "Durable waterproof protection for extreme alpine conditions",
+      "price": 799,
+      "tags": ["waterproof", "breathable", "alpine"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000007069-Alpha-Jacket-Solitude-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000007069-Alpha-Jacket-Solitude-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000007069-Alpha-Jacket-Solitude-Women-s-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000007069-Alpha-Jacket-Solitude-Women-s-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000007069-Alpha-Jacket-Solitude-Women-s-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S24-X000007069-Alpha-Jacket-Solitude-Women-s-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-09T06:55:30.000Z",
+      "updatedAt": "2024-04-11T06:10:45.000Z"
+    },
+    {
+      "name": "Gamma MX Hoody",
+      "slug": "gamma-mx-hoody",
+      "description": "Versatile softshell hoody for alpine climbing and backcountry skiing.",
+      "excerpt": "Weather-resistant softshell for mountain activities",
+      "price": 349,
+      "tags": ["softshell", "breathable", "versatile"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008485-Gamma-MX-Hoody-Vitality-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008485-Gamma-MX-Hoody-Vitality-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008485-Gamma-MX-Hoody-Vitality-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008485-Gamma-MX-Hoody-Vitality-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008485-Gamma-MX-Hoody-Vitality.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008485-Gamma-MX-Hoody-Vitality-Profile.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2023-12-31T21:10:30.000Z",
+      "updatedAt": "2024-04-02T20:25:45.000Z"
+    },
+    {
+      "name": "Beta AR Jacket",
+      "slug": "beta-ar-jacket",
+      "description": "Versatile GORE-TEX Pro jacket for all-round mountain use.",
+      "excerpt": "All-round protection for alpine environments",
+      "price": 599,
+      "tags": ["waterproof", "breathable", "alpine"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000006488-Beta-AR-Jacket-Stormhood-Heritage-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000006488-Beta-AR-Jacket-Stormhood-Heritage-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000006488-Beta-AR-Jacket-Stormhood-Heritage-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000006488-Beta-AR-Jacket-Stormhood-Heritage-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000006488-Beta-AR-Jacket-Stormhood-Heritage-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000006488-Beta-AR-Jacket-Stormhood-Heritage-Flat.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-01T22:15:30.000Z",
+      "updatedAt": "2024-04-03T21:30:45.000Z"
+    },
+    {
+      "name": "Beta SL Jacket (Black)",
+      "slug": "beta-sl-jacket-black",
+      "description": "Lightweight and packable GORE-TEX jacket for emergency weather protection.",
+      "excerpt": "Compact weather protection for unpredictable conditions",
+      "price": 399,
+      "tags": ["waterproof", "lightweight", "packable"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009681-Beta-SL-Jacket-Black-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009681-Beta-SL-Jacket-Black-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009681-Beta-SL-Jacket-Black-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009681-Beta-SL-Jacket-Black-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009681-Beta-SL-Jacket-Black.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009681-Beta-SL-Jacket-Black-Profile.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-02T23:20:30.000Z",
+      "updatedAt": "2024-04-04T22:35:45.000Z"
+    },
+    {
+      "name": "Beta SL Jacket (Eden)",
+      "slug": "beta-sl-jacket-eden",
+      "description": "Lightweight and packable GORE-TEX jacket for emergency weather protection.",
+      "excerpt": "Compact weather protection for unpredictable conditions",
+      "price": 399,
+      "tags": ["waterproof", "lightweight", "packable"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009681-Beta-SL-Jacket-Eden-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009681-Beta-SL-Jacket-Eden-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009681-Beta-SL-Jacket-Eden-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009681-Beta-SL-Jacket-Eden-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009681-Beta-SL-Jacket-Eden-Pit-Zip.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009681-Beta-SL-Jacket-Eden-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-03T00:25:30.000Z",
+      "updatedAt": "2024-04-05T23:40:45.000Z"
+    },
+    {
+      "name": "Beta Jacket",
+      "slug": "beta-jacket",
+      "description": "Versatile GORE-TEX jacket for all-round mountain use.",
+      "excerpt": "All-round protection for alpine environments",
+      "price": 549,
+      "tags": ["waterproof", "breathable", "alpine"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007726-Beta-Jacket-Interstellar-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007726-Beta-Jacket-Interstellar-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007726-Beta-Jacket-Interstellar-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007726-Beta-Jacket-Interstellar-Side-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007726-Beta-Jacket-Interstellar-Flat.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007726-Beta-Jacket-Interstellar-Full-Body.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-04T01:30:30.000Z",
+      "updatedAt": "2024-04-06T00:45:45.000Z"
+    },
+    {
+      "name": "Macai Shell Jacket",
+      "slug": "macai-shell-jacket",
+      "description": "Premium GORE-TEX Pro shell jacket for resort skiing and snowboarding.",
+      "excerpt": "High-performance protection for winter sports",
+      "price": 799,
+      "tags": ["waterproof", "breathable", "ski"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007060-Macai-Shell-Jacket-Vitality-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007060-Macai-Shell-Jacket-Vitality-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007060-Macai-Shell-Jacket-Vitality-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007060-Macai-Shell-Jacket-Vitality-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000007060-Macai-Shell-Jacket-Vitality-Flat.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-05T02:35:30.000Z",
+      "updatedAt": "2024-04-07T01:50:45.000Z"
+    },
+    {
+      "name": "Sabre Jacket",
+      "slug": "sabre-jacket",
+      "description": "Versatile GORE-TEX jacket for freeride skiing and snowboarding.",
+      "excerpt": "All-mountain performance for winter sports",
+      "price": 649,
+      "tags": ["waterproof", "breathable", "ski"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008922-Sabre-Jacket-Stratus-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008922-Sabre-Jacket-Stratus-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008922-Sabre-Jacket-Stratus-Back-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008922-Sabre-Jacket-Stratus-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008922-Sabre-Jacket-Stratus-Flat.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000008922-Sabre-Jacket-Stratus.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-06T03:40:30.000Z",
+      "updatedAt": "2024-04-08T02:55:45.000Z"
+    },
+    {
+      "name": "Andessa Down Mid Jacket",
+      "slug": "andessa-down-mid-jacket",
+      "description": "Premium down insulated mid-layer for cold weather skiing and snowboarding.",
+      "excerpt": "Warm, lightweight insulation for winter sports",
+      "price": 549,
+      "tags": ["insulated", "lightweight", "ski"],
+      "thumbnail": "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009100-Andessa-Down-Mid-Jacket-Tatsu-Women-s-Front-View.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+      "images": [
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009100-Andessa-Down-Mid-Jacket-Tatsu-Women-s-Hover.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009100-Andessa-Down-Mid-Jacket-Tatsu-Women-s-Hood.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009100-Andessa-Down-Mid-Jacket-Tatsu-Women-s-Pit-Zip.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009100-Andessa-Down-Mid-Jacket-Tatsu-Women-s-Flat.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038",
+        "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/F24-X000009100-Andessa-Down-Mid-Jacket-Tatsu-Women-s.jpg?auto=format%2Ccompress&q=75&fit=crop&fill=white&ixlib=react-9.8.1&w=3038"
+      ],
+      "createdAt": "2024-01-07T04:45:30.000Z",
+      "updatedAt": "2024-04-09T04:00:45.000Z"
+    }
+  ]
+}
